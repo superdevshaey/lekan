@@ -17,9 +17,9 @@ const sourceSans = Source_Sans_Pro({
 })
 
 export const metadata: Metadata = {
-  title: "Motúnráyọ̀ - Of Water and Spirit Collection",
+  title: "LEKAN AARE — A King Has Rested",
   description:
-    "A collection inspired by the sacred Osun Festival of Nigeria's Yoruba people. Launching September 2025 at London Fashion Week.",
+    "A collection inspired by the regal spirit of Yoruba kingship and the vibrant traditions of the Ojude Oba Festival..",
     generator: 'v0.dev'
 }
 
