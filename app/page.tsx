@@ -51,16 +51,16 @@ export default function LandingPage() {
             <div className="bg-slate-900/60 backdrop-blur-sm p-8 rounded-xl border border-blue-400/30">
               <p className="text-slate-100 text-2xl md:text-3xl font-source-sans font-semibold leading-relaxed max-w-5xl mx-auto">
                 A collection inspired by the regal spirit of Yoruba kingship
-                <br className="hidden md:block" />
+                <br className="hidden md:block" /> &nbsp; 
                 and the vibrant traditions of the Ojude Oba Festival.
               </p>
 
               <div className="mt-8 pt-6 border-t border-blue-400/30">
                 <p className="text-blue-300 text-xl md:text-2xl font-source-sans font-bold leading-relaxed max-w-5xl mx-auto">
                   Launching September 2025 at
-                  <br className="hidden md:block" />
-                  London Fashion Week, as part of the
-                  <br className="hidden md:block" />
+                  <br className="hidden md:block" /> &nbsp; 
+                  London Fashion Week, as part of the 
+                  <br className="hidden md:block" /> &nbsp; 
                   UDGN Cultural Threads Showcase.
                 </p>
               </div>
