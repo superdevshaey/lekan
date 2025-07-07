@@ -19,8 +19,11 @@ const sourceSans = Source_Sans_Pro({
 export const metadata: Metadata = {
   title: "LEKAN AARE — A King Has Rested",
   description:
-    "A collection inspired by the regal spirit of Yoruba kingship and the vibrant traditions of the Ojude Oba Festival..",
-    generator: 'v0.dev'
+    "A collection inspired by the regal spirit of Yoruba kingship and the vibrant traditions of the Ojude Oba Festival.",
+  generator: "v0.dev",
+  icons: {
+    icon: "/lekan.png", // or .png, .svg depending on what you use
+  },
 }
 
 export default function RootLayout({
@@ -30,7 +33,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${playfair.variable} ${sourceSans.variable} font-sans`}>{children}</body>
+      <head />
+      <body className={`${playfair.variable} ${sourceSans.variable} font-sans`}>
+        {children}
+      </body>
     </html>
   )
 }
