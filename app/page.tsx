@@ -43,7 +43,7 @@ export default function LandingPage() {
                 "LEKAN AARE"
               </h2>
               <p className="text-2xl md:text-3xl font-source-sans font-semibold text-slate-200 tracking-wide">
-                — A King Has Rested
+                — Homage to the King
               </p>
             </div>
 
