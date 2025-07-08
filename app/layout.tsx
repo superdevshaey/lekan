@@ -17,7 +17,7 @@ const sourceSans = Source_Sans_Pro({
 })
 
 export const metadata: Metadata = {
-  title: "LEKAN AARE — A King Has Rested",
+  title: "LEKAN AARE — Homage to the King",
   description:
     "A collection inspired by the regal spirit of Yoruba kingship and the vibrant traditions of the Ojude Oba Festival.",
   generator: "v0.dev",
